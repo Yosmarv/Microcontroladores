@@ -1,0 +1,15 @@
+../Core/Src/main.c:44:6:inicio	1
+../Core/Src/main.c:51:6:motor_cerrar	1
+../Core/Src/main.c:57:6:motor_abrir	1
+../Core/Src/main.c:63:6:motor_paro	1
+../Core/Src/main.c:69:6:iniciar_tim	1
+../Core/Src/main.c:75:6:parar_tim	1
+../Core/Src/main.c:80:6:MDE	27
+../Core/Src/main.c:187:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:224:5:main	1
+../Core/Src/main.c:270:6:SystemClock_Config	4
+../Core/Src/main.c:320:13:MX_TIM2_Init	4
+../Core/Src/main.c:365:13:MX_TIM3_Init	4
+../Core/Src/main.c:410:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:445:13:MX_GPIO_Init	1
+../Core/Src/main.c:513:6:Error_Handler	1
