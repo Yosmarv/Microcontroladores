@@ -131,7 +131,10 @@ void llamar_temp_boton(TimerHandle_t xTimer)
             cambio_estado();
         }
         
-    }
+    } else 
+        {
+            pre_boton = 0;
+        }
 }
 
 void cambio_estado(void)
